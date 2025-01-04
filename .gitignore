@@ -1,2 +1,3 @@
+# Old Git Ignore
 .zig-cache/
 zig-out/
